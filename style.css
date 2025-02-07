@@ -4,14 +4,11 @@
   font-family: "poppins" sans-serif;
   box-sizing: border-box;
 }
-body{
-  background:url(bg-for-calculator.jpg);
-}
 
 .container {
   width: 100%;
   height: 100vh;
-  background:url(bg-for-calculator.jpg);
+  background: url(bg-for-calculator.jpg);
   background-size: cover;
   display: flex;
   align-items: center;
@@ -58,4 +55,3 @@ form input.equal {
 form input.oprclor {
   color: #33ffd8;
 }
-
